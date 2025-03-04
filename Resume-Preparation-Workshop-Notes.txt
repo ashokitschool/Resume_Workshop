@@ -1,0 +1,405 @@
+==================
+Resume Preparation
+=================
+
+1)  Resume Structure
+
+2)  How to keep project(s) in resume
+
+3) How many projects we need to keep in resume
+
+4) How to cover gap as experience
+
+5) How to manage PF & UAN
+
+6) How to apply for Jobs in job portals
+
+
+
+Telegram Channel Username : @ashokitofficial
+
+
+
+
+================
+Resume Structure
+================
+
+Section - 1) Professional Summary
+
+Section - 2) Work Experience (companies details)
+
+Section - 3) Educational Details
+
+Section - 4) Techical Skills
+
+Section - 5) Projects with Description, Roles & Responsibilities
+
+Section - 6) Declaration
+
+
+===================
+Professional Summary
+===================
+
+--------------------------
+Java Developers
+-------------------------
+-> Years of Experience
+-> Java Technologies  (Spring Boot & Microservices)
+-> Microservices Architecture
+-> REST API Details (JSON Data)
+-> Design Patterns
+-> Databases (Oracle, MySQL, Mongo DB, AWS RDS)
+-> Frontend Technologies ( Angular or React JS)
+-> DevOps Tools (Maven, Git Hub, Jenkins, Docker, K8S)
+-> AWS Services (Ec2, S3, RDS, Route 53,  ..... etc)
+
+--------------------------
+DevOps with AWS
+------------------------
+-> Years of exp
+-> DevOps tools
+-> AWS Services
+-> Infrastructure creation using Terraform
+-> Experience with Docker
+-> Experience with K8S
+-> Experience in Configuration Management using Ansible
+-> Experience in K8S Manifest files (YML) creation
+-> Experience in CI CD Pipelines creation
+-> Experience in PIPelines & applications monitoring
+
+
+
+------------------------
+Work Experience
+------------------------
+
+if you have 1.5 years gap ---> show that 1.5 years in one company
+
+if you have 2 years gap --> show that 2 years in one company
+
+If you have 3 years gap ----> show that 3 years exp in one company
+
+if you have 3.5 years gap ---> show 3 years exp in one company (5 months you can say as learning period)
+ 
+if you have 4 years gap ---> show 3.5 years exp in one company  (5 months you can say as learning period)
+
+if you have 5 years gap --->  first 2.5 years i have done a business at home town + from last 2.5 years working in IT
+
+if you have 6 years gap --->  first 3 years i have done a business at home town + from last 3 years working in IT
+
+if you have 6 years gap --->  first 5 years i have done a business at home town + from last 3 years working in IT
+
+
+Parent Company / Payroll Company ----> The company which is paying salary for us + giving exp documents
+
+Client Company  ---> The company for which we will do the work / project
+
+Note: In Resume you mention Client Company
+
+
+Note: Consultancies will give exp documents (that company you need to say as parent company)
+
+
+Client Company ------> TCS
+
+Payroll Company ----> Global Systems
+
+
+=================
+Educational Details
+==================
+
+Freshers ------> SSC, Intermediate, Graduation, Post Graduation with Percentages
+
+
+Experiened  ----> Highest Qualification
+
+
+Note: For experienced people percentages are not important
+
+
+=================
+Technical Skills
+=================
+
+-------
+java
+-------
+
+Backend Technlogies : JAVA, J2EE, Hibernate with JPA, SPRING CORE, SPRING BOOT, REST API & Microservices
+Frontend Technlogies: HTML, CSS, JS, Bootstrap, Angular / React JS
+Databases : Oracle, MySQL, Mongo DB, H2 etc...
+AWS Cloud : Ec2, S3, RDS, LBR, Route 53, VPC etc.....
+Tools : Maven, Git, Jenkins, Log4J, Junit, Jacoco, Sonar, Nexus, JMETER, Docker, K8S, Kafka, Redis, Swagger, PostMan, Lombok etc...
+Operating Systems :  Windows, Linux
+
+
+--------------------------
+DevOps with AWS
+--------------------------
+
+AWS Services : EC2, S3, EBS, LBR, ASG, Route S3, VPC, CLI,  IAM, EFS, Lambdas, Beanstalk, ECS, EKS etc....
+DevOps Tools : Maven, Git, Jenkins, Sonar, Nexus, Tomcat, Docker, K8S, Terraform, Ansible, ELK, Grafana, Prometheus....
+Operating Systems : Windows, Linux ( Red Hat, Ubuntu, Cent OS, Amazon Linux)
+Languages : YML, HCL etc....
+
+
+
+
+===============
+Project Details
+===============
+
+----------
+Java 
+-----------
+
+1 - 2 years ---> 1 project
+
+ 2+  - 3 / 3.5 years exp   ------> 1 or 2  projects
+
+
+Project Name : CMS
+
+Duration :  Nov-2019 to till date
+
+Environment :  Technologies
+
+Domain : Banking
+
+Role : Team Member
+
+Description : ....
+
+Roles & Responsibilities :
+
+
+1) Gathering Requirements from Functional Team
+2) Analyse requirements
+3) DB Design
+4) Backend apis development
+5) Code Integration in Git Hub
+6) Code Review using Sonar
+7) Unit Testing with Coverage (Junit  + Mockito + Jacoco)
+8) Bug Fixing
+9) Frontend development
+10) Backend + Frontend Integration
+11) Deployments
+12) Support
+13) Scrum Calls
+14) Sprint Planning
+15) Retrospective
+
+
+--------------------------
+Devops with AWS
+--------------------------
+
+1 - 2 years ----> 1 project
+
+ 2+ - 3.5 years -----> 2 projects
+
+
+1) Understanding Project Infrastructure Requirements
+	Non-Prod env requirements ( DEV, SIT, UAT )
+	Prod env (Live)
+2) Creating Cloud  Infrastructure for Non Prod & PROD env
+3) Monitoring Infrastructure
+4) Creating Git Repositories & Managing user Permissions for repositories
+5) Create CI CD pipelines for Build & Deployment Automation
+6) Monitoring CI CD pipelines
+7) Create Remote Repository for shared libraries ( Nexus )
+8) Create Docker file for dockerizing appilcations
+9) Setup K8S cluster (Non Prod & Prod)
+10) Writing Kubernetes manifest yml
+11) Application & Servers Monitoring
+12) Scrum call
+13) Sprint Planning
+14) Retrospective
+
+
+
+
+DevOps Resume Headline : 
+
+-> DevOps Engineer with 3.4 Years Of Experience in Build and Deployment using AWS Cloud infrastructure in Agile methodology.
+
+
+Java Resume Headline:
+
+-> Java fullstack developer with 3+ years of experience in application development using spring boot & microservices.
+
+
+
+Java Keyskills:
+
+java, j2ee, spring core, spring mvc, spring boot, rest api, microservices, spring security, kafka, jenkins, docker, junit, oracle etc.....
+
+
+devops key skills:
+
+git, mave, jenkins, sonarqube,nexus, docker, k8s, ansible, terrafrom, pipelines, ec2, s3, vpc, iam, lambdas etc......
+
+
+===============================
+What is Total Exp and Relevant Exp
+===============================
+
+Total Experience In IT : 9.5 years 
+
+Relevant Experience in Spring Boot : 5 years 
+
+
+Total Exp : 3 years
+
+Relevant exp on k8s : 2 years
+
+==========================
+What is Your Notice Period
+==========================
+
+If any employee wants to leave present company then employee should serve notice period
+
+
+1 month
+
+2 months
+
+3 months
+
+
+Q) Can you negotiate notice period ?
+
+Ans)  I will try my best
+
+=======================
+What is Joining Bonus
+=======================
+
+-> If you reduce notice period, if you join immediatley new company will provide some joining bonus amount
+
+
+50 k
+
+1 lakh
+
+
+========================
+Do you have buyout option ?
+=========================
+
+If you don't want to serve your notice period, then you need to pay money for company to come out immediatley
+
+
+Note : We need to pay buyout amount from our pocket first then new company will give that amount to us.
+
+
+=================
+What is Abscond ?
+=================
+
+-> Leaving company without following company rules & policies
+
+Note: If you abscond from the company, they will not provide any documents and they don't support for background verification.
+
+Note: We shouldn't do like this
+
+
+===========
+UAN & PF
+================
+
+UAN - Universal Account Number 
+
+PF - Provident Fund (12 % of basic salary)
+
+Note:  Employer 12 % + Employee 12 %  =====> 24% PF amount
+
+From your salary  ----> 1200
+
+Company will provide ---> 1200  
+
+Montly 2400 will be added to our PF account
+
+Note: Every company will give you one PF account.
+
+=> All our PF accounts will be linked with one UAN number.
+
+Note:  When we change company we can transfer old company PF amount to new company provided PF account
+
+
+====================
+Payslip
+=====================
+
+=> Every month company will provide payslip
+
+=> Payslip contains how many days woked in that month & how many leaves
+
+=> How much salary we got  ( PF + HRA + Basic salary + Income Tax Deducted )
+
+
+Note: In company HR portal we can download payslip
+
+============
+Form - 16
+============
+
+-> It contains our income tax details
+
+-> How much salary we earned in last year
+
+-> How much tax we paid for govt
+
+
+Note: We need to file ITR every year ( Consult one Charted Account - CA )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
